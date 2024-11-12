@@ -4,8 +4,8 @@ project(Multi_Threaded_Memory_Allocator)
 set(CMAKE_CXX_STANDARD 14)
 
 add_executable(Multi_Threaded_Memory_Allocator
-        tests/MemoryPool.cpp
-        tests/MemoryPool.h
+        src/MemoryPool.cpp
+        src/MemoryPool.h
         tests/memoryPoolSimpleTests.cpp
         tests/memoryPoolSimpleTests.h
         tests/multiThreadingTests.cpp

@@ -2,7 +2,7 @@
 #include <thread>
 #include <vector>
 #include <cassert>
-#include "MemoryPool.h"    // Include your MemoryPool class
+#include "../src/MemoryPool.h"    // Include your MemoryPool class
 #include "multiThreadingTests.h"
 
 const size_t poolSize = 1024 * 1024; // 1 MB pool
