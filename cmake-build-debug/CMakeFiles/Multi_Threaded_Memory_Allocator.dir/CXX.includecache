@@ -1,0 +1,64 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/mnt/c/Users/user/CLionProjects/Multi-Threaded Memory Allocator/main.cpp
+tests/MemoryPool.h
+/mnt/c/Users/user/CLionProjects/Multi-Threaded Memory Allocator/tests/MemoryPool.h
+iostream
+-
+tests/memoryPoolSimpleTests.h
+/mnt/c/Users/user/CLionProjects/Multi-Threaded Memory Allocator/tests/memoryPoolSimpleTests.h
+tests/multiThreadingTests.h
+/mnt/c/Users/user/CLionProjects/Multi-Threaded Memory Allocator/tests/multiThreadingTests.h
+
+/mnt/c/Users/user/CLionProjects/Multi-Threaded Memory Allocator/tests/MemoryPool.cpp
+MemoryPool.h
+/mnt/c/Users/user/CLionProjects/Multi-Threaded Memory Allocator/tests/MemoryPool.h
+cstdlib
+-
+algorithm
+-
+
+/mnt/c/Users/user/CLionProjects/Multi-Threaded Memory Allocator/tests/MemoryPool.h
+cstddef
+-
+cstdint
+-
+mutex
+-
+vector
+/mnt/c/Users/user/CLionProjects/Multi-Threaded Memory Allocator/tests/vector
+
+/mnt/c/Users/user/CLionProjects/Multi-Threaded Memory Allocator/tests/memoryPoolSimpleTests.cpp
+MemoryPool.h
+/mnt/c/Users/user/CLionProjects/Multi-Threaded Memory Allocator/tests/MemoryPool.h
+memoryPoolSimpleTests.h
+/mnt/c/Users/user/CLionProjects/Multi-Threaded Memory Allocator/tests/memoryPoolSimpleTests.h
+iostream
+-
+cassert
+-
+
+/mnt/c/Users/user/CLionProjects/Multi-Threaded Memory Allocator/tests/memoryPoolSimpleTests.h
+
+/mnt/c/Users/user/CLionProjects/Multi-Threaded Memory Allocator/tests/multiThreadingTests.cpp
+iostream
+-
+thread
+-
+vector
+-
+cassert
+-
+MemoryPool.h
+/mnt/c/Users/user/CLionProjects/Multi-Threaded Memory Allocator/tests/MemoryPool.h
+multiThreadingTests.h
+/mnt/c/Users/user/CLionProjects/Multi-Threaded Memory Allocator/tests/multiThreadingTests.h
+
+/mnt/c/Users/user/CLionProjects/Multi-Threaded Memory Allocator/tests/multiThreadingTests.h
+

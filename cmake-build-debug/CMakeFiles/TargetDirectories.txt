@@ -1,0 +1,3 @@
+/mnt/c/Users/user/CLionProjects/Multi-Threaded Memory Allocator/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/mnt/c/Users/user/CLionProjects/Multi-Threaded Memory Allocator/cmake-build-debug/CMakeFiles/edit_cache.dir
+/mnt/c/Users/user/CLionProjects/Multi-Threaded Memory Allocator/cmake-build-debug/CMakeFiles/Multi_Threaded_Memory_Allocator.dir
