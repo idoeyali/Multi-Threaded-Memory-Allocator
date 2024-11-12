@@ -1,1 +1,0 @@
-/usr/bin/c++  -g   CMakeFiles/Multi_Threaded_Memory_Allocator.dir/tests/MemoryPool.cpp.o CMakeFiles/Multi_Threaded_Memory_Allocator.dir/tests/memoryPoolSimpleTests.cpp.o CMakeFiles/Multi_Threaded_Memory_Allocator.dir/tests/multiThreadingTests.cpp.o CMakeFiles/Multi_Threaded_Memory_Allocator.dir/main.cpp.o  -o Multi_Threaded_Memory_Allocator  -lpthread 
